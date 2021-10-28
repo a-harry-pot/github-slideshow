@@ -2,5 +2,10 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+😙
 Use the left arrow to go back!
+
+name|food
+----------
+harry|chicken
+lucy|beef
